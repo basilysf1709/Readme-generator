@@ -51,8 +51,9 @@ def main():
         temp = "- &nbsp; "
         temp += point
         output_file.write(temp)
+    output_file.write("\n")
     
-    output_file.write("<br>")
+    output_file.write("<br>\n")
     output_file.write("![myComp](https://user-images.githubusercontent.com/92009321/173706037-3414d647-59bd-475d-8595-a5c7c8da1aa2.gif)")
     output_file.write("\n## Tech Stack\n")
 
