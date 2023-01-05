@@ -46,18 +46,19 @@ def main():
 
     output_file.write("### &nbsp;About Me ")
     for point in about_me:
-        temp = "- 🎓 &nbsp; "
-        temp.append(point)
+        temp = "- &nbsp; "
+        temp += point
         output_file.write(temp)
-
+    
+    output_file.write("<br>")
     output_file.write("![myComp](https://user-images.githubusercontent.com/92009321/173706037-3414d647-59bd-475d-8595-a5c7c8da1aa2.gif)")
     output_file.write("## Tech Stack")
 
-    output_file.write("## Front End")
+    output_file.write("### Front End")
     for tech in user_front_end:
         output_file.write("![{}]{}".format(tech, tech_stack_dict[tech]))
     
-    output_file.write("## Back End")
+    output_file.write("### Back End")
     for tech in user_back_end:
         output_file.write("![{}]{}".format(tech, tech_stack_dict[tech]))
 
