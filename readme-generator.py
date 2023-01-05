@@ -11,6 +11,8 @@ def main():
 
         temp = input("Point {}: ".format(i))
         done = input("Are you done? (Yes/No): ")
+        about_me.append(temp)
+        
         if done.lower() == "yes":
             break
         i += 1
@@ -52,13 +54,13 @@ def main():
     
     output_file.write("<br>")
     output_file.write("![myComp](https://user-images.githubusercontent.com/92009321/173706037-3414d647-59bd-475d-8595-a5c7c8da1aa2.gif)")
-    output_file.write("## Tech Stack")
+    output_file.write("\n## Tech Stack\n")
 
-    output_file.write("### Front End")
+    output_file.write("\n### Front End\n")
     for tech in user_front_end:
         output_file.write("![{}]{}".format(tech, tech_stack_dict[tech]))
     
-    output_file.write("### Back End")
+    output_file.write("\n### Back End\n")
     for tech in user_back_end:
         output_file.write("![{}]{}".format(tech, tech_stack_dict[tech]))
 
