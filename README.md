@@ -1,5 +1,7 @@
 # Hello I am Basil Yusuf
-### &nbsp;About Me - &nbsp; I love to code- &nbsp; basilasdfas- &nbsp; asdfasdgasdg adsf asd f<br>![myComp](https://user-images.githubusercontent.com/92009321/173706037-3414d647-59bd-475d-8595-a5c7c8da1aa2.gif)
+### &nbsp;About Me 
+- &nbsp; I love to code- &nbsp; basilasdfas
+- &nbsp; asdfasdgasdg adsf asd f<br>![myComp](https://user-images.githubusercontent.com/92009321/173706037-3414d647-59bd-475d-8595-a5c7c8da1aa2.gif)
 ## Tech Stack
 
 ### Front End
