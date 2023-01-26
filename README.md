@@ -54,11 +54,17 @@ Being adaptable is crucial for organisations to stay successful and preserve a c
 #### Round Three: Impact
 
 - Q. In what way will the things you read this week impact your software development practice?
+
   - <ins>Basil</ins>: The readings this week has given me insightful information on efficient project management and software development teams. It has improved my comprehension of the ideas and provided knowledge on how to manage teams successfully. I have gained knowledge on the value of goal-setting, communication, and problem-solving through the readings. In general, the readings this week have been really helpful in helping me comprehend the various facets of project management. I am now well-equipped to create strategies for productive software developmen.
+
   - <ins>Sarah</ins>: This week's readings has allowed me to understand how a good project or software development team management strategy can now be developed. I now know how to define objectives, lead motivated, well-organized teams, and recognise and resolve problems as they arise. Additionally, the readings have improved my knowledge of team dynamics, work delegation, and peer collaboration.
+
   - <ins>Abdi</ins>: This week's readings enables me to gain skills in agile principles that work with my traits hence making me a better developer overall.
+
   - <ins>Christian</ins>: This week's readings has given me a much better idea of what the importance of agile is, as well as the scenarios where it fits, its emphasized that agile is not a one-size-fits-all solution, there are still scenarios where sequential development is preferred, and it is also outlined where the strengths of each are, and how to classify your projects between an agile approach, or a sequential approach, so that in the future I can make sure to tailor my processes to whatever project I am working on, allowing me to consistently bring the right approach, and mindset, to a project.
+
 - Q. Is there a theme?
+
   - The phrases and sentences discussed throughout the session do, in fact, have a common topic. The emphasis of the theme is on the value of ***adaptability*** and agility in both software development and decision-making. All of the acronyms mentioned—Cynefin, Scrum, Agile, and OODA, for example—emphasize how crucial it is for organisations and teams to be able to adapt rapidly and effectively to their environment. The examples show how it's important to pay attention to the surroundings, get familiar with them, choose the best course of action, and move quickly. In today's competitive environment, this idea of agility and flexibility is crucial for any organisation to succeed.
 
 
