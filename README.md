@@ -64,5 +64,5 @@ Being adaptable is crucial for organisations to stay successful and preserve a c
 
 #### Other Interesting Sentences in the Book
 
-*Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away* <br> <br>
-*The consequence of guessing wrong is lower for guessin a project is Complex than for guessing it's Complicated*
+*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away"* <br>
+*"The consequence of guessing wrong is lower for guessin a project is Complex than for guessing it's Complicated"*
