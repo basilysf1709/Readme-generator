@@ -8,7 +8,7 @@
 
 #### Round One: Sentences
  
-- ::Abdi:: :"Continuous Automated testing integrated into the development teams tightens the feedback loop between the time a defect is inserted and time it's detected, contributing to lower-cost defect correctinos and a strong focus on intiial code quality."
+- <ins>Abdi</ins> :"Continuous Automated testing integrated into the development teams tightens the feedback loop between the time a defect is inserted and time it's detected, contributing to lower-cost defect correctinos and a strong focus on intiial code quality."
   - Why this sentence is important?
   - This sentence is significant because it emphasises the value of ongoing automated testing as a component of the development process. Automation of testing improves code quality by finding and fixing errors more rapidly. Automated testing also closes the feedback loop between the time a flaw is introduced and the time it is discovered, assisting in the speedy detection and resolution of any problems. In the end, this aids in ensuring the best quality of code, which is crucial for effective software development. This helps in being a better developer overall.
   
